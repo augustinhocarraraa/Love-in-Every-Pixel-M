@@ -3,7 +3,7 @@ import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
   button: {
-    backgroundColor: '#67159C', // Roxo da Rocketseat!
+    backgroundColor: '#FF7F50', // Laranjinha do botão!
     borderRadius: 8,
     paddingVertical: 12,
     paddingHorizontal: 24,

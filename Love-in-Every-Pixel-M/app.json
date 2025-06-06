@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "instead",
-    "slug": "instead",
+    "name": "Love-in-Every-Pixel-M",
+    "slug": "Love-in-Every-Pixel-M",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "instead",
+    "scheme": "loveineverypixelm",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
